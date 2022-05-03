@@ -1424,7 +1424,7 @@ def start(message):
 
     bot.send_message(message.chat.id,
 
-                     "*🎋 Please Share Your Contact By Clicking On '🌴 Share Contact'*\n\n🌺 'Don't Worry Your Privacy Will Be Secured With Us This Process Is For Verification' ",
+                     "*🎋 Please Share Your Contact By Clicking On '🌴 Share Contact'*\n\n🌺 Don't Worry Your Privacy Will Be Secured With Us This Process Is For Verification ",
 
                      parse_mode="Markdown", reply_markup=keyboard)
 
