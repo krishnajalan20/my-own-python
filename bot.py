@@ -418,7 +418,7 @@ def with_2(id, amo):
 
         return
 
-    url = f"https://earnfastpayments.com/api/walletpay/?paytm={wallet}&amount={amo}&comment={pay_comment}&guid={subwallet_key}&orderid=default"
+    url = f"https://full2sms.in/api/v1/disburse/paytm?mid={merchant_id}&mkey={merchant_key}&guid={subwallet_key}&amount={amo}&mobile={wallet}&info={pay_comment}"
 
     r = requests.get(url)
 
