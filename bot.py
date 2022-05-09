@@ -488,7 +488,7 @@ def with_1(message):
 
             return
 
-        if float(amo) > 10:
+        if float(amo) > 100:
 
             bot.send_message(id, f"*⚠️ 𝙼𝚊𝚡𝚒𝚖𝚞𝚖 𝚆𝚒𝚝𝚑𝚍𝚛𝚊𝚠𝚕 𝙸𝚜 10 {curr}*", parse_mode="Markdown")
 
