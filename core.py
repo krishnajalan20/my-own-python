@@ -1,7 +1,7 @@
 
 
 #Bot Token From @BotFather
-bot_token = "5356539549:AAErCRhjUF5XkiJa4fM0Z36giW3RFTa_Wps"
+bot_token = "5249112201:AAE9uA44UPhAJMCkUWZw1m6IkQU5F7pPbMQ"
 
 #Admins Telegram ID
 admins = [1773829449,5081665]
